@@ -41,11 +41,6 @@
 
 4. 仓库 -> Actions, 检查Workflows并启用。
 
-## 预览
-
-| 掘金每日签到 | 海底掘金游戏 |
-|:-----------:| :-------------:|
-| ![掘金每日签到](https://user-images.githubusercontent.com/24502299/156475511-342cfcd8-3b66-4b9c-8614-215e0b4e08a1.jpg) | ![海底掘金游戏](https://user-images.githubusercontent.com/24502299/156475550-c8cc459a-3b27-4ca6-a07b-902b65bea7a9.jpg) |
 
 ## 问题
 
