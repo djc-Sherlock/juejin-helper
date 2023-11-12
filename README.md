@@ -48,8 +48,6 @@
 
 掘金网站Cookie, 打开浏览器，登录 [掘金](https://juejin.cn/), 打开控制台DevTools(快捷键F12) -> Network，复制 cookie, **掘金Cookie有效期约1个月需定期更新.**
 
-DevTools截图:
-<img width="1156" alt="getcookie" src="./resources/getcookie.png">
 
 
 ## 许可
