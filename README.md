@@ -6,7 +6,7 @@
 
 <h1 align="center">JuejinHelper-稀土掘金助手</h1>
 
-<p align="center">签到、抽奖、沾喜气、消除Bug、海底掘1金游戏、自动化工作。</p>
+<p align="center">签到、抽奖、沾喜气、消除Bug、海底掘1金游戏、2自动化工作。</p>
 
 ## 通知
 ✨ 自动化工作流，新增飞书推送。 \
